@@ -22,6 +22,16 @@ Once one of the three functionality buttons are clicked, the spreadsheet will be
 
 Note: Because of who I am as person, the "Advanced Settings" buttons have not yet been implemented, an do nothing when clicked. This is a feature, not a bug. 
 
-### Ranking
+### Rank
 
-![](visuals/start.PNG)
+![](visuals/rank.PNG)
+
+### Comparative Graph
+
+![](visuals/comapre_graph.PNG)
+
+### Individual Graph
+
+Note: Since this was implemented in 2019, I was not yet statiscally savvy enough to realize that include the Pearson correlation was inappropriate given the distributions. Please just ignore it.
+
+![](visuals/individual_graph.PNG)
