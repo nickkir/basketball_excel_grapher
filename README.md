@@ -6,7 +6,7 @@ This is a basic application for parsing spreadsheets in order to dynamically gra
 
 Currently, a basic version of the application can be run by downloading the repo, installing the dependencies, and simply running the app.py file.
 
-To actually graph data, the application makes some loose assumptions how the format of the spreadsheet, and gives detailed error messages when they are violated. A list of spreadsheet formatting requirements is given in the "User Guide" section of the application.
+To actually graph data, the application makes some loose assumptions about the format of the spreadsheet, and gives detailed error messages when they are violated. A list of spreadsheet formatting requirements is given in the "User Guide" section of the application.
 
 The following spreadsheet will be used to explain the functionality (the spreadsheet can be found on this repo).
 
@@ -16,7 +16,7 @@ The following spreadsheet will be used to explain the functionality (the spreads
 
 ![](visuals/start.PNG)
 
-Once one of the three functionality buttons are clicked, the spreadsheet will be parsed, and if the layout requirements are met, the program will continue as normal.
+Once one of the three functionality buttons are clicked, the spreadsheet will be parsed, and if the layout requirements are not met, the program will give a detailed error message. Otherwise, the program will continue on to the next window.
 
 ## The functionality windows
 
